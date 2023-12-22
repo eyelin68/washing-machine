@@ -1,0 +1,12 @@
+VERSION:3 SOURCE_TIMESTAMP:57896EF7
+NODE:I LEVEL:0 LINE:24 "C:\cvavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:27 "C:\cvavr\inc\alcd.h"
+NODE:I LEVEL:0 LINE:28 "C:\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:29 "C:\cvavr\inc\stdio.h"
+NODE:M LEVEL:0 LINE:34 "TEMPERATURE_LEVEL_SENSOR"
+NODE:M LEVEL:0 LINE:35 "MOTOR_PIN"
+NODE:F LEVEL:0 LINE:40 "read_temperature(unsigned char adc_input)"
+NODE:V LEVEL:0 LINE:51 "a -> R4,R5"
+NODE:V LEVEL:0 LINE:52 "i -> R6,R7"
+NODE:F LEVEL:0 LINE:55 "main(void)"
+NODE:F LEVEL:0 LINE:229 "process_cycle(int water_duration,int motor_duration,int drying_duration,int water_evaction,const unsigned char * water_message,const unsigned char * washing_message,const unsigned char * drying_message,const unsigned char * water_evaction_message)"
